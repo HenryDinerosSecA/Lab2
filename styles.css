@@ -35,3 +35,9 @@ footer {
 
     
 }
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+}
